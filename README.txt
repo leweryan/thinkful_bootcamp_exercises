@@ -1,0 +1,1 @@
+A collections of solutions to Thinkful Data Science Bootcamp so that I may more easily share and review them with others.
